@@ -1,3 +1,9 @@
+/*
+ *Autor:carlos Aurelio Alcántara Pérez  
+ *Fecha de creacion: 14-03-2022 
+ *Fecha de actualizacion:14-03-2022
+ *Descripicion:mostrar los tipos de datos primitivos con su rango tamaño y ejemplo
+ * */
 package principal;
 
 public class Principal {
