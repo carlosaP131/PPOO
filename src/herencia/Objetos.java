@@ -1,6 +1,6 @@
 package herencia;
 
-public class Objetos extends Datos{
+public class Objetos extends Datos {
 	private String objeto;
 
 	public String getObjeto() {
@@ -10,8 +10,5 @@ public class Objetos extends Datos{
 	public void setObjeto(String objeto) {
 		this.objeto = objeto;
 	}
-
-	
-
 
 }
