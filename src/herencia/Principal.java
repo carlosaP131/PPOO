@@ -1,10 +1,10 @@
 package herencia;
 
 public class Principal {
-	static PnÃºmerico bits = new PnÃºmerico();
-	static PnÃºmerico corto = new PnÃºmerico();
-	static PnÃºmerico   entero = new PnÃºmerico();
-	static PnÃºmerico largo = new PnÃºmerico();
+	static Pnúmerico bits = new Pnúmerico();
+	static Pnúmerico corto = new Pnúmerico();
+	static Pnúmerico   entero = new Pnúmerico();
+	static Pnúmerico largo = new Pnúmerico();
 	
 	public static void main(String[] args) {
 		//bits.setNombre("byte");

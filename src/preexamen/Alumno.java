@@ -12,7 +12,7 @@ public void setMatricula(String matricula) {
 }
 
 @Override
-	public void enseña() {
+	public void ense�a() {
 		System.out.println("el alumno enseña a sus demas compañeros");
 		
 	}

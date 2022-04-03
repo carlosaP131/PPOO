@@ -11,7 +11,7 @@ public void setClave(String clave) {
 	this.clave = clave;
 }
 @Override
-	public void enseña() {
+	public void ense�a() {
 		System.out.println("el profesor enseña a los alumnos");
 	}  
 }

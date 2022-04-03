@@ -11,7 +11,7 @@ public void setNumertrab(int numertrab) {
 	this.numertrab = numertrab;
 }
  @Override
-	public void enseña() {
+	public void ense�a() {
 		System.out.println("el trabajador enseña a los nuevos trabajadores");
 	}
 }

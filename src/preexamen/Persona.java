@@ -16,7 +16,7 @@ public abstract class Persona {
 	public void setEdad(int edad) {
 		this.edad = edad;
 	}
-    public void enseña () {
+    public void ense�a () {
     	System.out.println("enseña");
     }
  }

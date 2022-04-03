@@ -1,6 +1,6 @@
 package herencia;
 
-public class PnÃºmerico extends Primitivos {
+public class Pnúmerico extends Primitivos {
 	private byte bits;
 	private short corto;
 	private int entero;
@@ -38,7 +38,7 @@ public class PnÃºmerico extends Primitivos {
 		this.largo = largo;
 	}
 
-	public PnÃºmerico() {
+	public Pnúmerico() {
 
 		// setNombre("byte");
 		// System.out.println("El nombre es:" + getNombre());
